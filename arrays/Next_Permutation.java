@@ -55,3 +55,7 @@ public class Next_Permutation {
 
 }
 
+/*
+ * Output
+ * The next permutation is: [2 3 0 0 1 4 5 ]
+*/
