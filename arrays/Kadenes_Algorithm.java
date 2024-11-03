@@ -1,5 +1,3 @@
-
-
 public class Kadenes_Algorithm {
     public static long maxSubarraySum(int[] arr, int n) {
         long maxi = Long.MIN_VALUE; // maximum sum
